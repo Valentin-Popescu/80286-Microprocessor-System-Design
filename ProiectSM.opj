@@ -1,0 +1,90 @@
+(ExpressProject "ProiectSM"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "25.1 S010 (4374085)  [11/23/2025]-[01/16/26]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\proiectsm.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\proiectsm.dsn")
+      (Path "Design Resources" ".\proiectsm.dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\proiectsm.dsn" "SCHEMATIC1" "CPU"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 531"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 0 0 5 1290 24 549")
+        (Scroll "0 101")
+        (Zoom "58")
+        (Occurrence "/"))
+      (Path "C:\SM\1PROIECT\PROIECT\PROIECTSM.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "EPROM"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1290 24 549")
+        (Scroll "-141 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\SM\1PROIECT\PROIECT\PROIECTSM.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Decodificator EPROM"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1290 24 549")
+        (Scroll "-159 0")
+        (Zoom "40")
+        (Occurrence "/"))
+      (Path "C:\SM\1PROIECT\PROIECT\PROIECTSM.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Modul I/O"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1290 24 549")
+        (Scroll "0 125")
+        (Zoom "28")
+        (Occurrence "/"))
+      (Path "C:\SM\1PROIECT\PROIECT\PROIECTSM.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "DRAM"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1290 24 549")
+        (Scroll "0 65")
+        (Zoom "58")
+        (Occurrence "/"))
+      (Path "C:\SM\1PROIECT\PROIECT\PROIECTSM.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "SRAM")))
+  (MPSSessionName "Valentin"))
